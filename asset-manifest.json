@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zal/static/css/main.450bcd82.css",
+    "main.js": "/zal/static/js/main.d988fc63.js",
+    "static/js/453.ad6eb26e.chunk.js": "/zal/static/js/453.ad6eb26e.chunk.js",
+    "static/media/news5.jpg": "/zal/static/media/news5.289d5afb06052e1714f5.jpg",
+    "static/media/news4.jpg": "/zal/static/media/news4.66dd77b00ce89032a863.jpg",
+    "static/media/news1.jpg": "/zal/static/media/news1.7b3b4b09a4db839be01a.jpg",
+    "static/media/news2.jpg": "/zal/static/media/news2.75a524698f6e4c2a28c1.jpg",
+    "static/media/news6.jpg": "/zal/static/media/news6.99d5cb92a9ab67bbf594.jpg",
+    "static/media/news3.jpg": "/zal/static/media/news3.8113de5780f0bbbd6a04.jpg",
+    "static/media/sniezka.jpg": "/zal/static/media/sniezka.7fd3e62bc593dc45b713.jpg",
+    "static/media/cele.jpg": "/zal/static/media/cele.c707a3cf49d2b2d3c651.jpg",
+    "static/media/gniezno.jpg": "/zal/static/media/gniezno.1d446a8e5edca7cc3a98.jpg",
+    "static/media/praga.jpg": "/zal/static/media/praga.efbf16003ec7032f2c8c.jpg",
+    "static/media/szczeliniec.jpg": "/zal/static/media/szczeliniec.26b8227218e77c7239a7.jpg",
+    "index.html": "/zal/index.html",
+    "main.450bcd82.css.map": "/zal/static/css/main.450bcd82.css.map",
+    "main.d988fc63.js.map": "/zal/static/js/main.d988fc63.js.map",
+    "453.ad6eb26e.chunk.js.map": "/zal/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450bcd82.css",
+    "static/js/main.d988fc63.js"
+  ]
+}
